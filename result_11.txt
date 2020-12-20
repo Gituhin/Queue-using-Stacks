@@ -1,0 +1,122 @@
+1. to insert
+2. to delete
+3. to display
+4. to print toppers
+0. to exit
+Enter your Choice : 
+Enter details:
+Added: Antony Mark, 17CS30012, 9.30
+
+Enter your Choice :
+Enter details:
+Added: Muhammad Ali, 32GG210013, 8.60
+
+Enter your Choice :
+Enter details:
+Added: Manohar Ghosh, 21ED20024, 7.50
+
+Enter your Choice :
+Added: Bandana Bharathi, 16EX120012, 5.60
+
+Enter your Choice :
+Deleted: Antony Mark, 17CS30012, 9.30
+
+Enter your Choice :
+Enter details:
+Added: Sashi Bhatia, 14CH100009, 8.70
+
+Enter your Choice :
+Enter details:
+Added: Bhaichung Lama, 12AE300012, 9.30
+
+Enter your Choice :
+Enter details:
+Added: Rama Parui, 18EE100032, 8.60
+
+Enter your Choice :
+Enter details:
+Added: K. S. Khandelwal, 20CY100023, 9.30
+
+Enter your Choice :
+Enter details:
+Added: Manohar Sapui, 17CS100023, 9.30
+
+Enter your Choice :
+Deleted: Muhammad Ali, 32GG210013, 8.60
+
+Enter your Choice :
+Deleted: Manohar Ghosh, 21ED20024, 7.50
+
+Enter your Choice :
+Deleted: Bandana Bharathi, 16EX120012, 5.60
+
+Enter your Choice :
+Enter details:
+Added: Sameul Barton, 18EE300019, 8.70
+
+Enter your Choice :
+Enter details:
+Added: Geeta Maiti, 14CH1000016, 9.30
+
+Enter your Choice :
+Enter details:
+Added: Mohana Garg, 19EC100008, 8.20
+
+Enter your Choice :
+Enter details:
+Added: Sahil Gupta, 26NA100025, 7.80
+
+Enter your Choice :
+Deleted: Sashi Bhatia, 14CH100009, 8.70
+
+Enter your Choice :
+Deleted: Bhaichung Lama, 12AE300012, 9.30
+
+Enter your Choice :
+Deleted: Rama Parui, 18EE100032, 8.60
+
+Enter your Choice :
+Enter details:
+Added: Israfil Mandal, 26NA3000003, 8.40
+
+Enter your Choice :
+The contents of queue are:
+K. S. Khandelwal, 20CY100023, 9.30
+Manohar Sapui, 17CS100023, 9.30
+Sameul Barton, 18EE300019, 8.70
+Geeta Maiti, 14CH1000016, 9.30
+Mohana Garg, 19EC100008, 8.20
+Sahil Gupta, 26NA100025, 7.80
+Israfil Mandal, 26NA3000003, 8.40
+
+Enter your Choice :
+The list of toppers:
+K. S. Khandelwal, 20CY100023, 9.30
+Manohar Sapui, 17CS100023, 9.30
+Geeta Maiti, 14CH1000016, 9.30
+
+Enter your Choice :
+Enter details:
+Added: Neha Aditya, 16EX1000029, 9.50
+
+Enter your Choice :
+Deleted: K. S. Khandelwal, 20CY100023, 9.30
+
+Enter your Choice :
+Deleted: Manohar Sapui, 17CS100023, 9.30
+
+Enter your Choice :
+The contents of queue are:
+Sameul Barton, 18EE300019, 8.70
+Geeta Maiti, 14CH1000016, 9.30
+Mohana Garg, 19EC100008, 8.20
+Sahil Gupta, 26NA100025, 7.80
+Israfil Mandal, 26NA3000003, 8.40
+Neha Aditya, 16EX1000029, 9.50
+
+Enter your Choice :
+The list of toppers:
+Neha Aditya, 16EX1000029, 9.50
+
+Enter your Choice :
+Program Terminated.
