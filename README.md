@@ -1,7 +1,7 @@
 # Queue-using-Stacks
 Just a regular course assignment
 
-To read about the code kindly read the PDF uploaded with title description 'ReadMe.pdf'.
+To read about the repository kindly refer to the PDF uploaded with title description 'Description.pdf'.
 
 It contains the problem statement in very descriptive manner and the C file contains the solution.
 
